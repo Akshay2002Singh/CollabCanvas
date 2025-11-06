@@ -82,7 +82,7 @@ collaboration-tool/
    Create a `.env` file in the `backend/` directory:
    ```env
    PORT=3001
-   MONGODB_URI=mongodb+srv://aditijain:<db_password>@productcluster.cbzsw7t.mongodb.net/?appName=productCluster
+   MONGODB_URI=""
    CORS_ORIGIN=http://localhost:3000
    ```
 
